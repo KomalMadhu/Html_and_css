@@ -1,0 +1,28 @@
+#parent{
+    border: 1rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+#child1{
+    border: 1rem solid green;
+    margin-top:1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+#child2{
+    border: 1rem solid yellow;
+    margin-top:1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+#child3{
+    border: 1rem solid purple;
+    margin-top:1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+
